@@ -1,6 +1,29 @@
 
 
 
-h2{
-    color: black;
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+
+h1{
+    color: #A5B4FC;
+    font-size: 3.5em;
+    text-align: center;
+}
+
+.center-image{
+    text-align:center ;
+}
+div{
+    text-align: center;
+}
+p{
+
+    font-size: 1.5em;
+    /*
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    */
 }
