@@ -1,33 +1,31 @@
-
-
-
-  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
-body{
-    color: white;
-    opacity: 1;
-   
-    background: linear-gradient(90deg, #8360c3, #2ebf91);
-    font-family: 'Playfair Display', serif;
+body {
+  /* Ici on utilise le sélecteur body pour appliquer une police et une taille par défaut pour les éléments */
+  font-family: 'Manrope', sans-serif;
+  font-size: 1em;
 }
 
-
-h1{
-    color: #A5B4FC;
-    font-size: 3.5em;
-    text-align: center;
+a {
+  color: black;
+  text-decoration: none;
 }
 
-a{
-    color: white;
+em {
+  color: #a5b4fc;
+  font-style: normal;
 }
-div{
-    text-align: center;
-}
-p{
 
-    font-size: 1.5em;
-    /*
-    font-weight: bold;
-    font-family: 'Playfair Display', serif;
-    */
+h1 {
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+  font-size: 3.5em;
+  color: #a5b4fc;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+
+  border: 3px #EB5353 solid;
+  box-shadow: 6px 6px 2px rgba(0, 0, 0);
+
+  border-radius:  4px 4px 4px 4px;
+  font-size: 1.1em;
 }
