@@ -22,3 +22,24 @@
   margin: auto;
 }
 
+.devis{
+  margin-right: 50px
+
+}
+.Tarifs{
+  color:aliceblue;
+  font-size: 28px;
+  padding-right: 30px;
+}
+table{
+  padding: 50px;
+  border-collapse: collapse;
+  margin-right: 50px;
+}
+th,td{
+  
+  white-space: nowrap;
+  color: aliceblue;
+  padding: 50px;
+  border: solid 1px;
+}
