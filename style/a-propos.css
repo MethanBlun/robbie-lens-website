@@ -2,6 +2,8 @@
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
   padding: 50px;
+  width: 50%;
+  margin: auto;
   margin-bottom: 80px;
 }
 
@@ -18,28 +20,31 @@
 }
 
 .a-propos-main {
-  width: 50%;
   margin: auto;
 }
 
-.devis{
-  margin-right: 50px
-
-}
-.Tarifs{
-  color:aliceblue;
-  font-size: 28px;
-  padding-right: 30px;
-}
-table{
-  padding: 50px;
+table {
+  color: white;
+  text-align: center;
+  width: 100%;
   border-collapse: collapse;
-  margin-right: 50px;
 }
-th,td{
-  
-  white-space: nowrap;
-  color: aliceblue;
-  padding: 50px;
-  border: solid 1px;
+
+td,
+th {
+  padding: 15px;
+  border: 1px solid #a5b4fc;
+}
+
+td {
+  padding: 80px;
+}
+
+h2 {
+  margin-bottom: 80px;
+}
+
+h1,
+h2 {
+  text-align: center;
 }

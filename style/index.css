@@ -36,3 +36,47 @@
 .accueil-introduction div {
   padding-right: 80px;
 }
+
+.section-contact h2 {
+  color: #a5b4fc;
+  text-align: center;
+  padding-bottom: 40px;
+
+ 
+}
+.nometpr{
+  display: flex;
+  flex-direction: row;
+
+}
+.prenom{
+margin: 10px;
+}
+/*  
+
+
+.section-contact form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nometpr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 15px;
+}
+
+.nometpr label,
+.nometpr input {
+  margin-bottom: 5px;
+}
+
+.nometpr input {
+  width: 48%; 
+}
+
+*/
